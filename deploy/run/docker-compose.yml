@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  olm-docs:
+    image: olm-docs:latest
+    container_name: ${ENVIRONMENT}-olm-docs
+    restart: unless-stopped
+    environment:
+      - ENVIRONMENT
+    ports:
+      - "${WEB_PORT}:${WEB_PORT}"
+
+networks:
+  network:
+    name: ${ENVIRONMENT}

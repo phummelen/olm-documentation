@@ -22,5 +22,4 @@ Here is the real documentation, in different languages. Feel free to add a langu
 We are runnning the documentation within a container. Where the documentation is build using the mkdocs method.<br />
 So creating the image, there is the *build/dockerfile* for.<br />
 Where the *config/nginx.conf* is used within the runtime container.<br />
-<br />
-Running your version of the container is possible, therefore the *run* folder is there. Needed files will be added soon.
+Running your version of the container is possible, therefore the *run* folder is there.
