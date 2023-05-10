@@ -1,0 +1,54 @@
+site_name: 'Documentatie'
+copyright: Copyright &copy; 2023 OpenLitterMap Gemeenschap
+docs_dir: '../../docs/nl'                           # Where to find the Dutch markdown files
+site_dir: '../../generated/nl'                      # Where to put the Dutch HTML files
+
+theme:
+  name: material
+  custom_dir: '../../overrides/'                  # This is where the customization of the theme lives
+  logo: assets/images/openlittermap-logo.png      # The logo is shared by all languages
+  favicon: assets/images/favicon.ico              # The favicon is shared by all languages
+  language: nl                                    # The build's language
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.expand
+    #- navigation.indexes
+    #- navigation.sections
+    #- navigation.tabs
+    #- navigation.top
+    #- navigation.instant
+    #- navigation.tracking
+  palette: 
+    primary: black
+
+extra_css:
+  - assets/stylesheets/openlittermap.css            # CSS is shared by all languages
+
+extra:
+  alternate:                                        # Language Selection
+    - name: English
+      link: /en/
+      lang: en
+    - name: Nederlands
+      link: /nl/
+      lang: nl
+    - name: Français
+      link: /fr/
+      lang: fr
+    - name: Deutsch
+      link: /de/
+      lang: de
+  homepage: https://docs.openlittermap.com
+
+plugins:
+  - search:                                         
+      lang: nl                                      # Set language for search
+
+nav:
+- Welkom: index.md
+- Basis stappen: main-steps.md
+- Lees dit eerst: read-this-first.md
+- Veel gestelde vragen: faq.md
+- Versies: releases.md
