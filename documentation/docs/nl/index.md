@@ -2,7 +2,7 @@
 
 Je hebt de OpenLitterMap documentatie bereikt.
 We hopen dat je hier kunt vinden wat je nodig hebt.
-Mis je wat, laat het ons vooral weten, dan voegen we het -zo mogelijk- zo snel mogelijk toe.
+Mis je wat, laat het ons vooral weten, dan voegen we het -zo snel mogelijk- toe.
 <br />
 In OpenLitterMap documentatie schrijven we OpenLitterMap (altijd) als OLM.<br />
 <br />
