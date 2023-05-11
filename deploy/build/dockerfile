@@ -5,9 +5,9 @@ COPY ./documentation /documentation
 WORKDIR /documentation
 
 RUN mkdocs build -f config/en/mkdocs.yml
-#RUN mkdocs build -f config/fr/mkdocs.yml
+RUN mkdocs build -f config/fr/mkdocs.yml
 RUN mkdocs build -f config/nl/mkdocs.yml
-#RUN mkdocs build -f config/de/mkdocs.yml
+RUN mkdocs build -f config/de/mkdocs.yml
 
 #--- Second part
 FROM nginx:stable-alpine
