@@ -1,5 +1,10 @@
 # Veel gestelde vragen
 
+Heeft het opruimen uberhaupt wel nut?
+
+Waarom zou ik het niet gewoon opruimen, waarom moet ik het ook nog vastleggen
+<een doel, een missie, frustratie, een actie zoals peukmeuk>
+
 **Vraag**: Ik had gisteren een papier(plastic) ijsbeker. Zet ik die dan onder coffee cup? <br />
 Antwoord: Bekers van bijvoorbeeld McDonalds tag ik altijd met drie tags:
 
