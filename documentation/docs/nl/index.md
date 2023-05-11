@@ -8,4 +8,9 @@ In OpenLitterMap documentatie schrijven we OpenLitterMap (altijd) als OLM.<br />
 <br />
 Heb je een account aaangemaakt? En heb je nieuwsgierig ook door alle instellingen heen gelopen? Wel even doen graag.<br />
 Denk ook aan het aktiveren van een [team](https://openlittermap.com/teams). Voor Nederland maken we een landelijk team aan. Bijvoorbeeld **Netherlands2023**.
-Voor de **peukmeuk** zouden we een apart team kunnen maken, zodat we daar goed overzicht kunnen krijgen.
+Voor de **peukmeuk** zouden we een apart team kunnen maken, zodat we daar goed overzicht kunnen krijgen.<br />
+<br />
+<br />
+<center>
+![](assets/images/2021-12-30-logo-openlittermap.jpg)
+</center>
