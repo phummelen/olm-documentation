@@ -48,7 +48,7 @@ plugins:
 
 nav:
 - Welkom: index.md
-- Basis stappen: main-steps.md
 - Lees dit eerst: read-this-first.md
+- Basis stappen: main-steps.md
 - Veel gestelde vragen: faq.md
 - Versies: releases.md

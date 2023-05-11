@@ -29,6 +29,9 @@ extra:                                              # Language Selection
     - name: Français
       link: /fr/
       lang: fr
+    - name: Deutsch
+      link: /de/
+      lang: de
   homepage: https://docs.openlittermap.com
 
 plugins:
