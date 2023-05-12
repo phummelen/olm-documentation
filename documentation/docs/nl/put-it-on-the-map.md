@@ -1,4 +1,4 @@
-* Het in kaart brengen van zwerfafval
+# Het in kaart brengen van zwerfafval
 
 - het nemen van foto's
 - het uploaden van foto's
