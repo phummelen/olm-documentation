@@ -3,7 +3,8 @@ name: ci/cd olm docs image
 on:
   push:
     branches:
-      - "main"
+      #- "main"
+      - master
 
 jobs:
   build:
