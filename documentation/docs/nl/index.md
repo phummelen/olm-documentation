@@ -1,5 +1,12 @@
 # Welkom bij OpenLitterMap!
 
+Lopende acties:
+
+ - [peukmeuk 2022](https://openlittermap.com/tags?custom_tag=peukmeuk2022): 
+datum:
+tag:
+
+
 We zijn blij dat je ons gevonden hebt en om je als nieuwe gebruiker bij OpenLitterMap, ook wel OLM genoemd, te mogen verwelkomen.<br />
 <br />
 Als je hier terecht bent gekomen, dan denk ik dat we kunnen stellen dat je, net als zovelen, bezig bent met zaken die met 'een schonere wereld' te maken hebben.<br />
