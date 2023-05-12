@@ -10,17 +10,40 @@ In de subhoofdstuk(ken) zal eventueel beschreven worden hoe de app afwijkt van d
 Als je voor een van deze 2 manieren kiest, lees dan dus vooral ook beide delen door zodat je het totaalbeeld hebt. 
 
 - het nemen van foto's
-- [beschrijven: moet je 1 foto van elk onderdeel maken, of kan je ook meerdere dingen op 1 foto doen, zie ook de voorbeelden onderin]
+De foto's nemen we met de camera van de telefoon. Dit kan echter op veel manieren en bij het nemen van de foto is het goed om rekening te houden met het volgende:
+- Een (vrijwillige) admin moet alle foto's bekijken en beoordelen of ze kloppen. Dat is veel werk maar dat waarborgt ook de kwaliteit van OLM. Of jouw foto goed- of afgekeurd wordt en hoe snel dat gebeurt, hangt heel erg af van hoe je zelf de foto neemt:
+- hou de camera dicht bij het object dat je vastlegt in OLM. Hierdoor is duidelijk wat er op de foto staat, kan je zelf makkelijker de kenmerken geven en de admin dit controleren,
+- als het object een merk heeft, draai het object dan dusdanig, dat dat merk ook zichtbaar is.
+- De hoofdregel: probeer 1 foto per object te nemen. Dit is de hoofdregel, maar er zijn situaties waarbij het mogelijk is hiervan af te wijken. Zie verderop in deze handleiding.
+- [1 foto per object, maar dit is de uitzondering: ]
+- [ik wil wel meehelpen, maar ik ga echt niet van alles een foto maken --> bags of litter-mogelijkheid]
+
+
 - het uploaden van foto's
+[nog beschrijven]
+
 - het vastleggen van de beschrijving met behulp van voorafgedefinieerde kenmerken (het 'taggen' van foto's met 'pre-defined tags')
+[nog beschrijven]
+
 - het vastleggen van de beschrijving met behulp van eigengemaakte kenmerken (het 'taggen' van foto's met 'custom-tags')
+[nog beschrijven]
+
 - het aangeven of het fysiek is opgeruimd of dat het er nog ligt
+[nog beschrijven]
+
 - het tonen op de kaart
 
 
 # Voorbeelden van gevonden zwerfafval en hoe dit te 'taggen'
 
 Hoeveel en wat voor tags je gebruikt, bepaal je zelf, maar 'hoe meer info, hoe beter' (binnen bepaalde grenzen uiteraard).
+Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat jij zelf, maar vooral ook anderen, daar wat mee kunnen gaan doen en daarbij is het dan van belang om te beseffen dat de kans groot is dat dat gebeurt via een download van de meta-data. Daarmee bedoelen we dat iedereen in principe data kan downloaden, maar dat dit dan niet zozeer de foto zelf is, maar juist alle data die hoort bij die foto. Dat zijn de automatisch vastgelegde gegevens als datum en tijd en de gps-locatie, maar ook de gegevens die je zelf aangeeft.
+De manier waarop we dit proberen te doen, is volgens de COMB-methode. Daarmee bedoelen we 'Categorie, Object, Materiaal en Merk (Brand, in het Engels).
+Dus als je een kenmerk gaat geven, bepaal dan eerst bijvoorbeeld wat het is, bijvoorbeeld een blikje.
+Zoek dan naar een blikje binnen de lijst met mogelijke kenmerken. Je zal dan bijv een 'blik' vinden binnen de category softdrink, maar ook een 'bierblik' onder de catergory 'alcohol'.
+Door het juiste blik te kiezen, kies je dus eigenlijk ook meteen al de Category.
+Het volgende is het materaiaal. Dit kan van alles zijn, zoals papier, plastic, hout etc. Er zijn natuurlijk ook objecten die uit meerdere materialen bestaan, kies in dat geval 'het ergste materiaal'.
+En tot slot kijk je of je een merk kunt herkennen op de foto en zo ja, dan geef je dat merk ook op als tag.
 
 Een papieren frisdrankbeker van McDonalds:
 - softdrink > Paper Cup. (in deze tag zit dus zowel 'object' als 'materiaal'
@@ -29,7 +52,7 @@ Een papieren frisdrankbeker van McDonalds:
 Een coca-cola blik
 - softdrink > Can
 - brand > coca cola
-(je zou hier ook nog het materiaal op kunnen nemen, dat zal 99% zeker aluminium zijn, zelf laat ik het daarom juist achterwege)
+Je zou hier ook nog het materiaal op kunnen nemen, maar omdat dat vermoedelijk altijd 'metaal' is (of eigenlijk aluminium, maar misschien ook wel van ijzer), laten we die vaak weg. Op zich is er wel wat voor te zeggen om het altijd in te vullen indien bekend.
 
 Een Lipton-Ice icetea blikje:
 - softdrink > ice tea can ('can' zou ook goed zijn, maar omdat er blijkbaar ook een 'ice tea can' bestaat, is die in dit geval beter)
