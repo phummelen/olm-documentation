@@ -45,14 +45,14 @@ De foto's nemen we met de camera van de telefoon. Dit kan echter op veel maniere
 
 # Voorbeelden van gevonden zwerfafval en hoe dit te 'taggen'
 
-Hoeveel en wat voor tags je gebruikt, bepaal je zelf, maar 'hoe meer info, hoe beter' (binnen bepaalde grenzen uiteraard).
-Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat jij zelf, maar vooral ook anderen, daar wat mee kunnen gaan doen en daarbij is het dan van belang om te beseffen dat de kans groot is dat dat gebeurt via een download van de meta-data. Daarmee bedoelen we dat iedereen in principe data kan downloaden, maar dat dit dan niet zozeer de foto zelf is, maar juist alle data die hoort bij die foto. Dat zijn de automatisch vastgelegde gegevens als datum en tijd en de gps-locatie, maar ook de gegevens die je zelf aangeeft.
-De manier waarop we dit proberen te doen, is volgens de COMB-methode. Daarmee bedoelen we 'Categorie, Object, Materiaal en Merk (Brand, in het Engels).
-Dus als je een kenmerk gaat geven, bepaal dan eerst bijvoorbeeld wat het is, bijvoorbeeld een blikje.
-Zoek dan naar een blikje binnen de lijst met mogelijke kenmerken. Je zal dan bijv een 'blik' vinden binnen de category softdrink, maar ook een 'bierblik' onder de catergory 'alcohol'.
-Door het juiste blik te kiezen, kies je dus eigenlijk ook meteen al de Category.
-Het volgende is het materaiaal. Dit kan van alles zijn, zoals papier, plastic, hout etc. Er zijn natuurlijk ook objecten die uit meerdere materialen bestaan, kies in dat geval 'het ergste materiaal'.
-En tot slot kijk je of je een merk kunt herkennen op de foto en zo ja, dan geef je dat merk ook op als tag.
+Hoeveel en wat voor tags je gebruikt, bepaal je zelf, maar 'hoe meer info, hoe beter' (binnen bepaalde grenzen uiteraard).<br>
+Wat goed is om te beseffen, is dat je de kenmerken vooral vastlegt zodat jij zelf, maar vooral ook anderen, daar wat mee kunnen gaan doen en daarbij is het dan van belang om te beseffen dat de kans groot is dat dat gebeurt via een download van de meta-data. Daarmee bedoelen we dat iedereen in principe data kan downloaden, maar dat dit dan niet zozeer de foto zelf is, maar juist alle data die hoort bij die foto. Dat zijn de automatisch vastgelegde gegevens als datum en tijd en de gps-locatie, maar ook de gegevens die je zelf aangeeft.<br>
+De manier waarop we dit proberen te doen, is volgens de COMB-methode. Daarmee bedoelen we 'Categorie, Object, Materiaal en Merk (Brand, in het Engels).<br>
+Dus als je een kenmerk gaat geven, bepaal dan eerst bijvoorbeeld wat het is, bijvoorbeeld een blikje.<br>
+Zoek dan naar een blikje binnen de lijst met mogelijke kenmerken. Je zal dan bijv een 'blik' vinden binnen de category softdrink, maar ook een 'bierblik' onder de catergory 'alcohol'.<br>
+Door het juiste blik te kiezen, kies je dus eigenlijk ook meteen al de Category.<br>
+Het volgende is het materaiaal. Dit kan van alles zijn, zoals papier, plastic, hout etc. Er zijn natuurlijk ook objecten die uit meerdere materialen bestaan, kies in dat geval 'het ergste materiaal'.<br>
+En tot slot kijk je of je een merk kunt herkennen op de foto en zo ja, dan geef je dat merk ook op als tag.<br>
 
 Een papieren frisdrankbeker van McDonalds:
 - softdrink > Paper Cup. (in deze tag zit dus zowel 'object' als 'materiaal'
