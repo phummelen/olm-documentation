@@ -1,4 +1,4 @@
-*Inleiding
+# Inleiding
 
 Overzicht van OpenLitterMap.com:
 OpenLitterMap.com is een online platform dat gebruikers in staat stelt om zwerfafval in kaart te brengen en gezamenlijk de strijd aan te gaan tegen vervuiling. 
