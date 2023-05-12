@@ -50,10 +50,10 @@ nav:
 - Welkom: index.md
 - Inleiding: introduction.md
 - Aan de slag: read-this-first.md
-- Het in kaart brengen van zwerfafval mbv de app: put-it-on-the-map-via-ap.md
+- Het in kaart brengen van zwerfafval mbv de app: put-it-on-the-map-via-app.md
 - Het in kaart brengen van zwerfafval mbv de web-applicatie: put-it-on-the-map-via-web.md
-- Basis stappen: main-steps.md
-- Veel gestelde vragen: faq.md
+- Speciale manieren om OLM voor te gebruiken en Succesverhalen: success-stories.md
+- Veel gestelde vragen en zaken die nog een plek moeten krijgen in de handleiding: faq.md
 - Melden van mogelijke fouten: issues.md
 - Contact: contact.md
 - Versies: releases.md
