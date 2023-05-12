@@ -1,9 +1,13 @@
 # Veel gestelde vragen
 
-Heeft het opruimen uberhaupt wel nut?
+Let op, hieronder zouden echt díe vragen moeten komen die écht regelmatig gesteld worden. De antwoorden die daar gegeven worden, zouden echter ook ergens anders in de handleiding terecht moeten komen,
+zodat het antwoord op de vraag simpelweg in de handleiding gevonden kan worden...
 
-Waarom zou ik het niet gewoon opruimen, waarom moet ik het ook nog vastleggen
-<een doel, een missie, frustratie, een actie zoals peukmeuk>
+Heeft het opruimen uberhaupt wel nut?
+<voor- en nadelen van het verwijderen van het afval>
+
+Waarom zou ik het niet gewoon opruimen, waarom moet ik het ook nog vastleggen <br>
+<voor- en nadelen van het vastleggen van data, (neem hierin ook op 'een doel, een missie, frustratie, een actie zoals peukmeuk>')
 
 **Vraag**: Ik had gisteren een papier(plastic) ijsbeker. Zet ik die dan onder coffee cup? <br />
 Antwoord: Bekers van bijvoorbeeld McDonalds tag ik altijd met drie tags:
