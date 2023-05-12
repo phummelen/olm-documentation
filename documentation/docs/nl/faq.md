@@ -1,20 +1,15 @@
 # Veel gestelde vragen
 
-Let op, hieronder zouden echt díe vragen moeten komen die écht regelmatig gesteld worden. De antwoorden die daar gegeven worden, zouden echter ook ergens anders in de handleiding terecht moeten komen,
-zodat het antwoord op de vraag simpelweg in de handleiding gevonden kan worden...
+Via de verschillende kanalen waarop we te vinden zijn (zie 'Contact') krijgen we regelmatig vragen (waar we blij mee zijn).
+Daar waar mogelijk geven we uiteraard een antwoord, maar soms zullen we ook gaan verwijzen naar deze handleiding.
+Hieronder zullen mogelijk de échte FAQs staan, de vragen die de laatste tijd veel gesteld worden en waar we dan naar verwijzen,
+Het is ons plan om er ook voor te zorgen dat die vragen en de bijbehorende antwoorden ook echt op hun eigen plek in de handleiding terecht gaan komen.
 
-Heeft het opruimen uberhaupt wel nut?
-<voor- en nadelen van het verwijderen van het afval>
+Hieronder dus de vragen die recent veel gesteld worden en daaronder nog wat losse punten die we nog moeten verwerken zodat die ook in de handleding zelf komen.
 
-Waarom zou ik het niet gewoon opruimen, waarom moet ik het ook nog vastleggen <br>
-<voor- en nadelen van het vastleggen van data, (neem hierin ook op 'een doel, een missie, frustratie, een actie zoals peukmeuk>')
 
-**Vraag**: Ik had gisteren een papier(plastic) ijsbeker. Zet ik die dan onder coffee cup? <br />
-Antwoord: Bekers van bijvoorbeeld McDonalds tag ik altijd met drie tags:
-
- - McDonalds
- - Plastic Cup (softdrink)
- - category:fastfood (een custom tag, ik gebruik dus de combi van category en fastfood)
+**Vraag**: Ik vond gisteren een ijsbeker, maar daar lijkt geen tag voor te zijn, hoe leg ik die vast?<br />
+Antwoord: In OLM is er al een aantal vooraf gedefinieerde kenmerken 'tags' waaruit je kan kiezen maar die lijst is beperkt, vergeleken met wat je allemaal kunt vinden. Je kan kiezen uit de lijst met bestaande kenmerken, maar je kunt ook eventueel zelf een kenmerk maken. Zie daarvoor het hoofdstuk <nog te noemen> waarin uitgelegd wordt hoe je dat doet
 
 **Vraag**: Ik mis wel polystyrene.<br />
 Antwoord: In de *Costal* categorie staan een aantal "Styrofoam" opties. Misschien zijn die bruikbaar?<br />
