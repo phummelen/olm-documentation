@@ -20,18 +20,27 @@ De foto's nemen we met de camera van de telefoon. Dit kan echter op veel maniere
 
 
 - het uploaden van foto's
-[nog beschrijven]
+[nog beschrijven]<br>
 
 - het vastleggen van de beschrijving met behulp van voorafgedefinieerde kenmerken (het 'taggen' van foto's met 'pre-defined tags')
-[nog beschrijven]
+[nog beschrijven]<br>
+[neem hier op:
+- verwijs naar andere plek waar comb al wordt genoemd
+- de optie van bulktag
+- wat als een tag wel voorkomt, maar onder een verkeerde categorie?]
 
 - het vastleggen van de beschrijving met behulp van eigengemaakte kenmerken (het 'taggen' van foto's met 'custom-tags')
-[nog beschrijven]
+[nog beschrijven]<br>
+[neem hierin op:
+- alles in kleine letters, zonder spaties of rare tekens. Een merk als 'powerup!' wordt dan 'powerup'. Een merk als 7-up wordt '7up' etc.
+- zet ervoor wat het betreft, een catergory, object, material of brand (allemaal in het Engels)
+- als je een aantal aan wilt geven, doe dat dan door '=10' direct achter te zetten (wederom zonder spaties, en die 10 is dan dus het aantal dat het betreft)
 
 - het aangeven of het fysiek is opgeruimd of dat het er nog ligt
-[nog beschrijven]
+[nog beschrijven]<br>
 
 - het tonen op de kaart
+[nog beschrijven]<br>
 
 
 # Voorbeelden van gevonden zwerfafval en hoe dit te 'taggen'
