@@ -1,10 +1,6 @@
 # Aan de slag
 
 Registreren en inloggen
-Navigeren door de interface
-Profielinstellingen aanpassen
-
-Registreren en inloggen
 Om te beginnen met het gebruik van OpenLitterMap.com, moet je je registreren voor een account. Volg de eenvoudige stappen om je account aan te maken en vervolgens kun je inloggen met je inloggegevens.
 <nog vullen>
  
