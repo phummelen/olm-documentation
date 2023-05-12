@@ -50,7 +50,8 @@ nav:
 - Welkom: index.md
 - Inleiding: introduction.md
 - Aan de slag: read-this-first.md
-- Het in kaart brengen van zwerfafval: put-it-on-the-map.md
+- Het in kaart brengen van zwerfafval mbv de app: put-it-on-the-map-via-ap.md
+- Het in kaart brengen van zwerfafval mbv de web-applicatie: put-it-on-the-map-via-web.md
 - Basis stappen: main-steps.md
 - Veel gestelde vragen: faq.md
 - Melden van mogelijke fouten: issues.md
