@@ -9,7 +9,7 @@ Hieronder dus de vragen die recent veel gesteld worden en daaronder nog wat loss
 
 
 **Vraag**: Ik vond gisteren een ijsbeker, maar daar lijkt geen tag voor te zijn, hoe leg ik die vast?<br />
-Antwoord: In OLM is er al een aantal vooraf gedefinieerde kenmerken 'tags' waaruit je kan kiezen maar die lijst is beperkt, vergeleken met wat je allemaal kunt vinden. Je kan kiezen uit de lijst met bestaande kenmerken, maar je kunt ook eventueel zelf een kenmerk maken. Zie daarvoor het hoofdstuk <nog te noemen> waarin uitgelegd wordt hoe je dat doet
+Antwoord: In OLM is er al een aantal vooraf gedefinieerde kenmerken 'tags' waaruit je kan kiezen maar die lijst is beperkt, vergeleken met wat je allemaal kunt vinden. Je kan kiezen uit de lijst met bestaande kenmerken, maar je kunt ook eventueel zelf een kenmerk maken. Zie daarvoor het hoofdstuk [nog te noemen] waarin uitgelegd wordt hoe je dat doet
 
 **Vraag**: Ik mis wel polystyrene.<br />
 Antwoord: In de *Costal* categorie staan een aantal "Styrofoam" opties. Misschien zijn die bruikbaar?<br />
