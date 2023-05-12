@@ -1,9 +1,8 @@
 # Inleiding
 
-## Overzicht van OpenLitterMap.com:<
+## Overzicht van OpenLitterMap.com
 OpenLitterMap.com is een online platform dat gebruikers in staat stelt om zwerfafval in kaart te brengen en gezamenlijk de strijd aan te gaan tegen vervuiling. <br />
-Het platform is ontworpen om een wereldwijde gemeenschap van gebruikers te verbinden die zich inzet voor het monitoren en opruimen van zwerfafval.<br />
-<br />
+Het platform is ontworpen om een wereldwijde gemeenschap van gebruikers te verbinden die zich inzet voor het monitoren en opruimen van zwerfafval.
 
 ## Belangrijkste kenmerken
 
