@@ -1,31 +1,30 @@
 # Welkom bij OpenLitterMap!
 
-Lopende acties:
-
- - [peukmeuk 2022](https://openlittermap.com/tags?custom_tag=peukmeuk2022): 
-datum:
-tag:
+Laatste nieuws:<br />
+Het PeukMeuk-event 2023 komt eraan, doe je ook (weer) mee?!<br />
+Zie het hoofdstuk 'succesverhalen'<br />
 
 
-We zijn blij dat je ons gevonden hebt en om je als nieuwe gebruiker bij OpenLitterMap, ook wel OLM genoemd, te mogen verwelkomen.<br />
+Welkom!
+
+We zijn blij dat je ons gevonden hebt en om je als nieuwe gebruiker bij OpenLitterMap (OLM) te mogen verwelkomen.<br />
 <br />
 Als je hier terecht bent gekomen, dan denk ik dat we kunnen stellen dat je, net als zovelen, bezig bent met zaken die met 'een schonere wereld' te maken hebben.<br />
-Wellicht zie je veel afval op straat liggen en vraag je je af wat daaraan gedaan kan worden. Is het de gemeente die dat moet doen, omdat we belasting betalen, of ligt er ook een rol bij de burger. Ben je het zat om te verwachten dat een ander daar wel wat mee doet en heb je zelf die spreekwoordelijke handschoen opgepakt en aangetrokken. Raap je wellicht al langer afval op maar merk je dat dat afval ook steeds weer terugkomt en vraag je wellicht af of het wel genoeg is. Allemaal terechte vragen waar wij ook niet alle antwoorden op hebben, maar we kunnen wel het volgende stellen:
+Wellicht zie je veel afval op straat liggen en vraag je je af wat daaraan gedaan kan worden. Is het de gemeente die dat moet doen, omdat we belasting betalen, of ligt er ook een rol bij de burger? Ben je het zat om te verwachten dat een ander daar wel wat mee doet en heb je zelf die spreekwoordelijke handschoen opgepakt en aangetrokken. Raap je wellicht al langer afval op maar merk je dat dat afval ook steeds weer terugkomt en vraag je wellicht af of het wel genoeg is. Allemaal terechte vragen waar wij ook niet alle antwoorden op hebben, maar we kunnen wel het volgende stellen:
 
 - je bent niet alleen!
-- afval rapen helpt wel degelijk, alles wat je nu opruimt, ligt er niet meer en veroorzaakt geen/minder schade
+- afval rapen helpt wel degelijk, alles wat je nu opruimt, ligt er niet meer en veroorzaakt dus minder schade
 - afval rapen alleen lost helaas niet alles op, ook al ruim je het nu op, er is altijd wel weer iemand die er toch wat neergooit of een andere oorzaak waardoor afval weer ontstaat
 - het vastleggen van het geraapte afval helpt wel degelijk, de data die je maakt, kan gebruikt worden, zelfs lang nadat het afval zelf al weg is
 - het vastleggen van het geraapte afval lost helaas niet alles op, ook als je data vastleg, zal afval voorlopig nog steeds blijven ontstaan.
 
-Kortom, alles wat je doet, helpt en al het extra wat je doet, helpt nog meer (maar lost helaas ook niet alles op).
-Opruimen helpt direct, het vastleggen van data kan de impact van het opruimen (flink) vergroten en OLM is een van de middelen die je daarvoor kan gebruiken.<br />
-<br />
-Hoewel er veel apps op de markt zijn waarmee je van alles vast kan leggen, zijn dit de redenen die wij van gebruikers horen om voor OLM te kiezen:
+Kortom, alles wat je doet, helpt (meer dan klagen alleen) en hoe meer je doet, hoe meer het helpt.<br />
+Een van die extra stappen die je dus kan zetten, is het vastleggen van data in OLM en wij van WC-Eend vinden daar natuurlijk wat van, maar wij zijn niet de enigen.<br />
+Dit is wat wij horen van de gebruikers:
 
 - een kaart waarop alles terug te zien is!
 - niets verborgen, alles openbaar, voor iedereen in te zien, zowel de code van het programma als de data
-- duidelijk wat de openstaande bugs/wensen zijn en waaraan er gewerkt wordt
+- duidelijk wat de openstaande bugs/wensen zijn en waaraan er wel (of juist niet) gewerkt wordt
 - het draait op vrijwilligers
 - een actieve community
 - snel antwoord op vragen
@@ -36,7 +35,7 @@ Hoewel er veel apps op de markt zijn waarmee je van alles vast kan leggen, zijn 
 - geen commercieel belang
 - een mooi platform om zelf ervaring op te doen als toekomstige ontwikkelaar
 - competitief, maar ook op een vrolijke manier
-- het stimuleert de zero-waste-stores wat toch echt de toekomst is of zou moeten zijn
+- het stimuleert de zero-waste-stores wat precies past bij mijn normen en waarden
 - (wat is jouw reden?)...
 
 OLM stelt je in staat om zwerfafval in kaart te brengen en gegevens vast te leggen. Of je nu een individuele gebruiker bent of een groep die samenwerkt, ons platform biedt de tools en functionaliteiten om jouw bijdrage van onschatbare waarde te maken.<br />
