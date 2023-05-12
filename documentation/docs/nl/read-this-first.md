@@ -5,8 +5,9 @@ Om te beginnen met het gebruik van OpenLitterMap.com, moet je je registreren voo
 1. 
   
 ## Profielinstellingen aanpassen
-Op je profielpagina heb je de mogelijkheid om instellingen vast te leggen zoals privacy-instellingen of instellingen waarmee je vastlegt of je het afval meestal opraapt of juist niet.
+Op je profielpagina heb je de mogelijkheid om instellingen vast te leggen zoals privacy-instellingen of instellingen waarmee je vastlegt of je het afval meestal opraapt of juist niet.<br />
 1. 
 
 ## ... aanpassen
+Bla.<br />
 1. 
