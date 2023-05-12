@@ -1,4 +1,6 @@
-# Het in kaart brengen van zwerfafval
+# Het in kaart brengen van zwerfafval met behulp van de app
+
+(let op, eventuele overlap tussen app&web markeren en wellicht maar op 1 plek vastleggen (of de 2 documenten samenvoegen waarbij je 2 sporen toont)
 
 - het nemen van foto's
 - het uploaden van foto's
