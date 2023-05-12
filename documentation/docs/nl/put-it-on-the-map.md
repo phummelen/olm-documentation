@@ -1,6 +1,6 @@
 # Het in kaart brengen van zwerfafval met behulp van de app of van web.
 
-We hebben op hoofdlijnen 2 manieren om afval vast te leggen in OLM:
+We hebben op hoofdlijnen 2 manieren om afval vast te leggen in OLM: nog aanvullen...
 - via de app op je mobiel
 - via de website op je computer/laptop
 
