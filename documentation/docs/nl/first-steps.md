@@ -1,4 +1,4 @@
-# De Eerste Stappen
+# Van Afval tot Data, stap voor stap
 
 Het idee van OpenLitterMap (OLM) is simpel: neem een foto, geef wat kenmerken en upload hem en klaar. Het afval is op de kaart te vinden en jijzelf of anderen kunnen met de openbare data aan de slag.<br />
 Gebruikers die al wat langer bij OLM zitten, die doen dat inderdaad op die manier. Maar ben je wat nieuwer in OLM, dan kan het best wel wat overweldigend zijn. Wat moet je nu precies doen om dat afval inderdaad op die kaart te krijgen?<br />
