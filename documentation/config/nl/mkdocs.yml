@@ -48,18 +48,25 @@ plugins:
 
 nav:
 - Welkom: index.md
-- Eerste stappen: first-steps.md
+- Van afval tot data, stap voor stap: first-steps.md
+- Tips en sneltoetsen: tips.md
+- Evenementen waar je bij kunt helpen: events.md
+- Interessante custom-tags: customtags.md
+- Veel gestelde vragen: faq.md
+- Wekelijkse meetup en notulen: meetup.md
+- Succesverhalen: success-stories.md
+- Melden van mogelijke fouten: issues.md
+- Contact: contact.md
+- Versies: releases.md
 
 
-- Inleiding: introduction.md
-- Aan de slag: read-this-first.md
 - Het in kaart brengen van zwerfafval:
   - algemene info: put-it-on-the-map.md
   - mbv de app: put-it-on-the-map-via-app.md
   - mbv de web: put-it-on-the-map-via-web.md
   - de verschillen: put-it-on-the-map-differences-app-and-web.md
-- Speciale manieren om OLM voor te gebruiken en Succesverhalen: success-stories.md
-- Veel gestelde vragen en zaken die nog een plek moeten krijgen in de handleiding: faq.md
-- Melden van mogelijke fouten: issues.md
-- Contact: contact.md
-- Versies: releases.md
+
+
+
+
+
