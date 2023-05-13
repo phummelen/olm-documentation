@@ -48,6 +48,9 @@ plugins:
 
 nav:
 - Welkom: index.md
+- Eerste stappen: first-steps.md
+
+
 - Inleiding: introduction.md
 - Aan de slag: read-this-first.md
 - Het in kaart brengen van zwerfafval:
