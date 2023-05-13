@@ -1,6 +1,6 @@
 # Welkom bij OpenLitterMap!
 
-Laten we beginnen met zeggen dat we blij zijn dat je deze handleiding gevonden hebt.<br />
+Laten we beginnen met zeggen dat we blij zijn dat je deze handleiding gevonden hebt, en dat we hopen dat je er wat aan hebt!<br />
 Wereldwijd zijn veel mensen actief zwerfafval aan het rapen. Dat kan zijn individueel, tijdens een wandeling met de honden, of in groepsverband. Sommigen doen dat elke dag, anderen alleen op een speciale dag.<br />
 Of je nu veel of weinig afval raapt, vaak of soms, of misschien zelfs helemaal nooit en helemaal niets, je bent van harte welkom bij OpenLitterMap!<br />
 OpenLitterMap (vanaf nu OLM genoemd) is een platform waar verschillende groepen mensen bij elkaar komen, denk hierbij aan zwerfafvalrapers, maar ook software-ontwikkelaars, onderzoekers, studenten, leraren maar zelfs bedrijven en verschillende mensen die 'iets doen' met zero-waste.<br />
