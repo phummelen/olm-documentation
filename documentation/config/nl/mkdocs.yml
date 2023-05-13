@@ -49,7 +49,7 @@ plugins:
 nav:
 - Welkom: index.md
 - Van afval tot data, stap voor stap: first-steps.md
-- Voorbeelden van afvan en hoe te taggen: tagging-examples.md
+- Voorbeelden van gevonden zwerfafval en hoe te taggen: tagging-examples.md
 - Tips en sneltoetsen: tips.md
 - Evenementen waar je bij kunt helpen: events.md
 - Interessante custom-tags: customtags.md
