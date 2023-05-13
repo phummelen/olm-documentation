@@ -1,10 +1,6 @@
+Nieuwe opzet, nieuwe inhoudsopgave en deze vullen met inhoud, daarna verdelen over juiste pagina's:
+
 # Welkom bij OpenLitterMap!
-
-
-Nieuwe opzet, 
-Volgende 'inhoudsopgave':
-
-# Welkom
 # De eerste stappen
 ## Account aanmaken
 ## profile page, instellingen correct zetten
@@ -36,12 +32,29 @@ rechtsbovenin komt er een 'live-feed' langs, een kaartje waarin staat dat iemand
 ## wat gebeurt er nu met jouw foto(s): foto-controle door admin
 ## share your success
 # succes-verhalen
+
 # evenementen waar je aan mee kunt helpen
+pakzooi
+peukmeuk
+# interessante gebruikte customtags
+specialfind
+scenery
+startedabin
+object:explodedbin
+beforeandafter
+makeadifference
+showyourimpact
 # tips en sneltoetsen
 Gebruik de zoekfunctie in deze handleiding (rechtsboven)
+# wekelijkse meetup en verslagen daarvan
+Waar vind je de meetups
+blogposts
 # wat als je een fout tegenkomt
 # hoe kom ik in contact met jullie
 # hoe kan ik zelf ook meer bijdragen aan de ontwikkeling van OLM
+afvalrapers
+developers
+onderzoekers
 
 
 Laatste nieuws:<br />
