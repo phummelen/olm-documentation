@@ -23,10 +23,12 @@ Ga naar: Openlittermap.com > inloggen > More > Teams
 
 ## foto maken van afval
 Het nemen van een foto is natuurlijk simpel. Je opent de camera van je telefoon en je neemt een foto.<br />
-Echter, omdat het om een foto van zwerfafval gaat, en er daarna nog veel gedaan gaat worden met die foto, zijn er wel wat zaken om rekening mee te hoduen:
-1. zorg dat je telefoon zo ingesteld staat dat hij gps-locatie opslaat bij de foto, TODO: NOG BESCHRIJVEN HOE
-2. zo dichtbij mogelijk. Het gaat ons niet om het landschap waarin ergens het afval ligt, het gaat om het item. TODO: VERDER UITLEGGEN WAT DE WENSEN ZIJN
-3. merk indien mogelijk, foto van dichtbij (tenzij 'scenery', zie ergens anders), bedenk dat anderen de foto moeten beoordelen
+Echter, omdat het om een foto van zwerfafval gaat, en er daarna nog veel gedaan gaat worden met die foto, zijn er wel wat zaken om rekening mee te houden:
+1. De foto moet locatie-gegevens bevatten (zie eerder in de handleiding)
+2. Een (vrijwillige) admin moet alle foto's bekijken en beoordelen of ze kloppen. Dat is veel werk maar dat waarborgt ook de kwaliteit van OLM. Of jouw foto goed- of afgekeurd wordt en hoe snel dat gebeurt, hangt heel erg af van hoe je zelf de foto neemt.
+3. hou de camera dicht bij het object dat je vastlegt in OLM. Hierdoor is duidelijk wat er op de foto staat, kan je zelf makkelijker de kenmerken geven en de admin dit controleren,
+4. als het object een merk heeft, draai het object dan dusdanig, dat dat merk ook zichtbaar is.
+5. De hoofdregel: op 1 foto staat 1 item. Er zijn echter situaties waarbij je wel degelijk 1 foto kan nemen van meerdere items, zie bij Tips
 
 ## pagina global map aanzetten ivm live-feed
 Als je straks de foto echt gaat uploaden, dan is het leuk om op de computer ook een scherm aan te hebben staan met daarop OpenLitterMap en dan de 'Global Map'.<br />
