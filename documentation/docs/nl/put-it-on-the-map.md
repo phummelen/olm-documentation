@@ -10,13 +10,7 @@ In de subhoofdstuk(ken) zal eventueel beschreven worden hoe de app afwijkt van d
 Als je voor een van deze 2 manieren kiest, lees dan dus vooral ook beide delen door zodat je het totaalbeeld hebt. 
 
 - het nemen van foto's
-De foto's nemen we met de camera van de telefoon. Dit kan echter op veel manieren en bij het nemen van de foto is het goed om rekening te houden met het volgende:
-- Een (vrijwillige) admin moet alle foto's bekijken en beoordelen of ze kloppen. Dat is veel werk maar dat waarborgt ook de kwaliteit van OLM. Of jouw foto goed- of afgekeurd wordt en hoe snel dat gebeurt, hangt heel erg af van hoe je zelf de foto neemt:
-- hou de camera dicht bij het object dat je vastlegt in OLM. Hierdoor is duidelijk wat er op de foto staat, kan je zelf makkelijker de kenmerken geven en de admin dit controleren,
-- als het object een merk heeft, draai het object dan dusdanig, dat dat merk ook zichtbaar is.
-- De hoofdregel: probeer 1 foto per object te nemen. Dit is de hoofdregel, maar er zijn situaties waarbij het mogelijk is hiervan af te wijken. Zie verderop in deze handleiding.
-- [1 foto per object, maar dit is de uitzondering: ]
-- [ik wil wel meehelpen, maar ik ga echt niet van alles een foto maken --> bags of litter-mogelijkheid]
+De foto's nemen we met de camera van de telefoon. Dit kan echter op veel manieren en 
 
 
 - het uploaden van foto's
