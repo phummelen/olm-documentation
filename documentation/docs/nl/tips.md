@@ -1,4 +1,4 @@
-# Tips
+# Tips, van taggingvoorbeelden tot bulktag-opties
 
 ## Wanneer kan je afwijken van de regel om 1 foto per item te maken en kan je meerdere items tegelijk op de foto zetten?
 Voorbeelden waarbij je wel, of juist niet meerdere voorwerpen op slechts 1 foto kan zetten:
@@ -29,3 +29,9 @@ Omdat dit niet te bepalen is, zonder de foto, kan je hier niet deze 2 objecten o
 
 ## Ik wil best meehelpen aan OLM, maar ik ga écht niet van elk item een foto maken
 TODO: Bags-of-Litter
+
+## sneltoetsen
+TODO: beschrijf die
+
+## Bulktaggen
+TODO: beschrijven
