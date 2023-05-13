@@ -1,4 +1,4 @@
-# Welkom bij OpenLitterMap!
+# Welkom bij OpenLitterMap (OLM)!
 
 Laten we beginnen met zeggen dat we blij zijn dat je deze handleiding gevonden hebt, en dat we hopen dat je er wat aan hebt!<br />
 Wereldwijd zijn veel mensen actief zwerfafval aan het rapen. Dat kan zijn individueel, tijdens een wandeling met de honden, of in groepsverband. Sommigen doen dat elke dag, anderen alleen op een speciale dag.<br />
