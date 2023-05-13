@@ -3,6 +3,8 @@ Nieuwe opzet, nieuwe inhoudsopgave en deze vullen met inhoud, daarna verdelen ov
 # Welkom bij OpenLitterMap!
 # De eerste stappen
 ## Account aanmaken
+Volg de volgende stappen:
+1. Nog te vullen
 ## profile page, instellingen correct zetten
 ### Openlittermap.com > inloggen > More > Settings
 ### personal details > geef een naam en een 'gebruikersnaam', bijv Fred & 'fred de blikjesman'
@@ -51,6 +53,14 @@ Waar vind je de meetups
 blogposts
 # wat als je een fout tegenkomt
 # hoe kom ik in contact met jullie
+Er zijn meerdere manieren waarop we te bereiken zijn:
+- [Twitter](https://twitter.com/OpenLitterMap)
+- [Facebook](https://www.facebook.com/openlittermap)
+- [Slack, Join](https://join.slack.com/t/openlittermap/shared_invite/zt-fdctasud-mu~OBQKReRdC9Ai9KgGROw)
+- [Redit](https://openlittermap.com/assets/icons/reddit.png)
+- [Email](mailto:info@openlittermap.com)
+- [Tumblr](https://openlittermap.com/assets/icons/tumblr.png)
+- Individuele gebruikers: (zie de social icons achter de namen bij [the world-cup](https://openlittermap.com/leaderboard))
 # hoe kan ik zelf ook meer bijdragen aan de ontwikkeling van OLM
 afvalrapers
 developers
