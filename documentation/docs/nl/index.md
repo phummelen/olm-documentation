@@ -2,89 +2,19 @@ Nieuwe opzet, nieuwe inhoudsopgave en deze vullen met inhoud, daarna verdelen ov
 
 # Welkom bij OpenLitterMap!
 
-# succes-verhalen
+Laten we beginnen met zeggen dat we blij zijn dat je deze handleiding gevonden hebt.<br />
+Wereldwijd zijn veel mensen actief zwerfafval aan het rapen. Dat kan zijn individueel, tijdens een wandeling met de honden, of in groepsverband. Sommigen doen dat elke dag, anderen alleen op een speciale dag.<br />
+Of je nu veel of weinig afval raapt, vaak of soms, of misschien zelfs helemaal nooit en helemaal niets, je bent van harte welkom bij OpenLitterMap!<br />
+OpenLitterMap (vanaf nu OLM genoemd) is een platform waar verschillende groepen mensen bij elkaar komen, denk hierbij aan zwerfafvalrapers, maar ook software-ontwikkelaars, onderzoekers, studenten, leraren maar zelfs bedrijven en verschillende mensen die 'iets doen' met zero-waste.<br />
+Wat jouw motivatie, ambitie of kunde ook is, je bent van harte welkom en mocht je dat willen, er is vást wel iets waar je mee kan helpen, want alle beetjes helpen en iedereen kan een verschil maken!<br />
 
-# evenementen waar je aan mee kunt helpen
-pakzooi
-peukmeuk
-# interessante gebruikte customtags
-specialfind
-scenery
-startedabin
-object:explodedbin
-beforeandafter
-makeadifference
-showyourimpact
-# tips en sneltoetsen
-Gebruik de zoekfunctie in deze handleiding (rechtsboven)
-# wekelijkse meetup en verslagen daarvan
-Waar vind je de meetups
-blogposts
-# wat als je een fout tegenkomt
-# hoe kom ik in contact met jullie
-Er zijn meerdere manieren waarop we te bereiken zijn:
-- [Twitter](https://twitter.com/OpenLitterMap)
-- [Facebook](https://www.facebook.com/openlittermap)
-- [Slack, Join](https://join.slack.com/t/openlittermap/shared_invite/zt-fdctasud-mu~OBQKReRdC9Ai9KgGROw)
-- [Redit](https://openlittermap.com/assets/icons/reddit.png)
-- [Email](mailto:info@openlittermap.com)
-- [Tumblr](https://openlittermap.com/assets/icons/tumblr.png)
-- Individuele gebruikers: (zie de social icons achter de namen bij [the world-cup](https://openlittermap.com/leaderboard))
-# hoe kan ik zelf ook meer bijdragen aan de ontwikkeling van OLM
-afvalrapers
-developers
-onderzoekers
+OLM wordt dus gebruikt om al die partijen bij elkaar te brengen en de rode draad hierbij is momenteel 'afval'. Dat kan zijn afval in je eigen straat, of bijv
+In deze handleiding zal zo veel mogelijk uitgelegd worden over hoe je afval dat je onderweg tegenkomt vast kan leggen in OpenLitterMap (vanaf hier voor OLM genoemd)<br />
+Op de wereld zijn veel mensen actief met het rapen van zwerfafval, ieder op zijn eigen manier en in zijn eigen gebied. Dat is erg mooi, want al die mensen bij elkaar maken een groot verschil.<br />
+Wij zijn van mening dat het opruimen helpt, maar dat het vastleggen van data daarover nog veel meer, en nog veel langer, kan helpen. De data die wij met z'n allen vastleggen kan gebruikt worden om nog meer impact te maken, zelfs lang nadat het afval al verdwenen is.<br />
+Bij OpenLitterMap wordt elke week door vrijwilligers van over de hele wereld gewerkt aan de software en er komen dan ook steeds nieuwe mogelijkheden bij. Heb je OpenLitterMap een paar jaar geleden al eens bekeken, dan is de kans groot dat je blij verrast bent door de mogelijkheden die we tegenwoordig bieden. Niet voor niets zeggen we vaak #eachtweekbetter, want elke weet wordt er wel weer íets verbeterd.<br />
+Hierbij vinden we het overigens belangrijker dat het werkt, dan hoe het eruit ziet. Eerst zorgen dat de gebruikers er wat aan hebben, daarna pas zorgen dat het er gelikt uitziet.<br />
+Dat houdt echter ook in, en daar zijn we ons zeer van bewust, dat sommige dingen niet echt logisch in elkaar lijken te zitten. Het is soms even zoeken waar een knopje zit, of hoe je iets voor elkaar kan krijgen. Daarom nodigen we iedereen dan ook uit om contact met ons op te nemen via de vele kanalen waarop dat mogelijk is en vragen te stellen. We zijn met een hoop mensen die het programma goed kennen en we beantwoorden de vragen graag. Of lees op je gemak deze handleiding door want ook hierin worden veel dingen uitgeleg. Maar mis je iets, geef maar aan!<br />
+Voor nu nogmaals welkom, dank voor je interesse, kijk rustig rond en als je vragen hebt, stel ze gerust!<br />
 
-
-Laatste nieuws:<br />
-Het PeukMeuk-event 2023 komt eraan, doe je ook (weer) mee?!<br />
-Zie het hoofdstuk 'succesverhalen'<br />
-
-
-Welkom!
-
-We zijn blij dat je ons gevonden hebt en om je als nieuwe gebruiker bij OpenLitterMap (OLM) te mogen verwelkomen.<br />
-<br />
-Als je hier terecht bent gekomen, dan denk ik dat we kunnen stellen dat je, net als zovelen, bezig bent met zaken die met 'een schonere wereld' te maken hebben.<br />
-Wellicht zie je veel afval op straat liggen en vraag je je af wat daaraan gedaan kan worden. Is het de gemeente die dat moet doen, omdat we belasting betalen, of ligt er ook een rol bij de burger? Ben je het zat om te verwachten dat een ander daar wel wat mee doet en heb je zelf die spreekwoordelijke handschoen opgepakt en aangetrokken. Raap je wellicht al langer afval op maar merk je dat dat afval ook steeds weer terugkomt en vraag je wellicht af of het wel genoeg is. Allemaal terechte vragen waar wij ook niet alle antwoorden op hebben, maar we kunnen wel het volgende stellen:
-
-- je bent niet alleen!
-- afval rapen helpt wel degelijk, alles wat je nu opruimt, ligt er niet meer en veroorzaakt dus minder schade
-- afval rapen alleen lost helaas niet alles op, ook al ruim je het nu op, er is altijd wel weer iemand die er toch wat neergooit of een andere oorzaak waardoor afval weer ontstaat
-- het vastleggen van het geraapte afval helpt wel degelijk, de data die je maakt, kan gebruikt worden, zelfs lang nadat het afval zelf al weg is
-- het vastleggen van het geraapte afval lost helaas niet alles op, ook als je data vastleg, zal afval voorlopig nog steeds blijven ontstaan.
-
-Kortom, alles wat je doet, helpt (meer dan klagen alleen) en hoe meer je doet, hoe meer het helpt.<br />
-Een van die extra stappen die je dus kan zetten, is het vastleggen van data in OLM en wij van WC-Eend vinden daar natuurlijk wat van, maar wij zijn niet de enigen.<br />
-Dit is wat wij horen van de gebruikers:
-
-- een kaart waarop alles terug te zien is!
-- niets verborgen, alles openbaar, voor iedereen in te zien, zowel de code van het programma als de data
-- duidelijk wat de openstaande bugs/wensen zijn en waaraan er wel (of juist niet) gewerkt wordt
-- het draait op vrijwilligers
-- een actieve community
-- snel antwoord op vragen
-- betrokken en gepassioneerde gebruikers
-- wekelijkse voortgang/verbeteringen
-- open-source wat inhoudt dat iedereen, waar dan ook op de wereld, bij kan dragen aan de verbeteringen
-- er komen steeds meer mogelijkheden bij, in plaats van dat er steeds meer mogelijkheden verdwijnen
-- geen commercieel belang
-- een mooi platform om zelf ervaring op te doen als toekomstige ontwikkelaar
-- competitief, maar ook op een vrolijke manier
-- het stimuleert de zero-waste-stores wat precies past bij mijn normen en waarden
-- (wat is jouw reden?)...
-
-OLM stelt je in staat om zwerfafval in kaart te brengen en gegevens vast te leggen. Of je nu een individuele gebruiker bent of een groep die samenwerkt, ons platform biedt de tools en functionaliteiten om jouw bijdrage van onschatbare waarde te maken.<br />
-<br />
-Hoewel er al heel veel mogelijk is in OLM, moeten we je er echter ook op wijzen dat OLM nog steeds in ontwikkeling is. We werken hard aan het verbeteren van bestaande functies en het toevoegen van nieuwe mogelijkheden om de gebruikerservaring verder te verrijken. Hoewel er al veel te ontdekken valt, kunnen bepaalde functies dus nog ontbreken of worden verfijnd.<br />
-<br />
-De kracht van OLM ligt in onze gemeenschap en jij hoort daar ook bij. We moedigen je dan ook aan om deel te nemen aan discussies, ervaringen te delen en samen te werken met andere gebruikers. Samen kunnen we de impact vergroten en een positieve verandering teweegbrengen.<br />
-<br />
-Omdat we nog steeds volop aan het werk zijn aan OLM, merken we ook dat nieuwe gebruikers met bepaalde vragen komen die in de applicatie zelf nog niet duidelijk beantwoord worden.<br />
-Daarom hebben we deze documentatie opgezet om een soort verzamelpunt te hebben van uitleg en tips waardoor je nog meer waarde uit OLM zult kunnen halen.<br />
-Mocht je desalniettemin toch nog zaken missen, schroom dan niet om ons te benaderen want we nemen alle feedback graag mee om ons programma, maar ook deze handleiding te verbeteren!<br />
-<br />
-Nogmaals dank voor je interesse, <br />
-samen kunnen we het verschil maken en werken aan een wereld zonder zwerfafval!<br />
-<br />
-Het OLM-team<br />
+Het team van vrijwilligers van OLM.
