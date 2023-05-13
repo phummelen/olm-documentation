@@ -1,38 +1,7 @@
 Nieuwe opzet, nieuwe inhoudsopgave en deze vullen met inhoud, daarna verdelen over juiste pagina's:
 
 # Welkom bij OpenLitterMap!
-# De eerste stappen
-## Account aanmaken
-Volg de volgende stappen:
-1. Nog te vullen
-## profile page, instellingen correct zetten
-### Openlittermap.com > inloggen > More > Settings
-### personal details > geef een naam en een 'gebruikersnaam', bijv Fred & 'fred de blikjesman'
-### social accounts > vul alles in wat je hebt en wat je wilt 'promoten'
-### privacy > in principe kan je hier alles 'aan' zetten
-### picked up > kijk naar de tekst onder 'Toggle Presence:' en zorg dat deze op 'Your litter will be logged as picked up' staat
-### show flag > zorg dat hier iets staat dat aangeeft uit welk land je komt, bijv 'The Netherlands'
-## team page, sluit je aan bij een team
-## foto maken van afval
-### probeer het eerst met 1 of 2 foto's
-### zorg dat je telefoon zo ingesteld staat dat hij gps-locatie opslaat bij de foto
-## pagina global map aanzetten ivm live-feed
-## Als je de app gebruikt: taggen
-## Als je de app gebruikt: uploaden
-## Als je de web-applicatie gebruikt: uploaden
-### welke foutmeldingen kunnen langskomen en wat te doen?
-foto al eerder geupload
-geen gps gevonden
-token mismatch
-## Als je de web-applicatie gebruikt: taggen
-### opgeraapt ja/nee
-Moet je het opruimen waarom wel/niet?
-De instelling staat steeds anders, kan dat niet handiger?
-### 
-## wat zie je op de globalmap gebeuren?
-rechtsbovenin komt er een 'live-feed' langs, een kaartje waarin staat dat iemand wat geupload heeft (of een 
-## wat gebeurt er nu met jouw foto(s): foto-controle door admin
-## share your success
+
 # succes-verhalen
 
 # evenementen waar je aan mee kunt helpen
