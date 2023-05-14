@@ -65,6 +65,6 @@ Maar je kan de data ook eventueel downloaden om via eigen te kiezen programma's 
 2. TODO
 
 ## deel je impact!
-Gefeliciteerd, jij hebt een verschil gemaakt! Daar mag je best trots op zijn, wij zijn dat in ieder geval ook!<br ?>
+Gefeliciteerd, jij hebt een verschil gemaakt! Daar mag je best trots op zijn, wij zijn dat in ieder geval ook!<br />
 Het delen van succes kan op meerdere manieren. TODO <br />
 Neem de url van je foto en deel die op social media, voeg hierbij bijvoorbeeld hashtags toe zoals 'showyourimpact', #zwerfie #olm etc.
