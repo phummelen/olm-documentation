@@ -6,8 +6,9 @@ Dit doen we dan met een speciale 'custom-tag' zodat die data ook op de website t
 In het verleden is OLM (in Nederland) gebruikt voor de volgende evenementen:
 1. World Cleanup Day
 2. Landelijke Opschoon Dag
-3. Peukmeuk (2022)
-4. Knalplastic (2022)
+3. [Overload](https://openlittermap.com/tags?custom_tag=overload&lat=52.339986489881674&lon=4.8365803096173074&zoom=10.54), vastleggen van volle prullenbakken om aan te tonen dat verpakkingen verkeerd ontworpen zijn
+4. [Peukmeuk (2022)](https://openlittermap.com/tags?custom_tag=peukmeuk2022&lat=52.575629624264266&lon=5.384730584042043&zoom=9.63),  op 1 specifieke dag alle sigarettenfilters vastleggen
+5. [Knalplastic (2022)](https://openlittermap.com/tags?custom_tag=spatplastic&lat=52.47010880894674&lon=4.8820918191490525&zoom=10.76), om het probleem van onnodig plastic in vuurwerk vast te leggen
 
 Op dit moment zijn de volgende evenementen actief waar je aan bij kun dragen:
 1. Pakzooi (2023)<br />
@@ -23,7 +24,6 @@ Door/Voor: Bernadette Hakken-Hermsen en collega's<br />
 Doel: Alle sigarettenpeukenop die ene dag vastleggen<br />
 Datum: 1 juli 2023<br />
 Gebruikte custom-tags in OLM: peukmeuk & peukmeuk2023<br />
-[Geraapte items in 2022:](https://openlittermap.com/tags?custom_tag=peukmeuk2022&lat=52.575629624264266&lon=5.384730584042043&zoom=9.63)
 
 2. World Cleanup Day (WCD)<br />
 Door/Voor: iedereen
@@ -36,4 +36,3 @@ Door/Voor: iedereen
 Doel: Nederland op die dag weer een stuk schoner maken. (Het Nederlandse broertje dus van de WCD). Sommigen noemen het greenwashing, vooral omdat het soms gepushed wordt door bedrijven (en wij dus 'hun' troep opruimen, maar ook hier geldt: alles wat je opruimt helpt, en als je er dan ook meteen data van maakt, dan kan je die data eventueel gebruiken om die bedrijven aan te sporen om die andere 364 dagen zelf ook wat meer te doen tegen afval.<br />
 Datum: 23 maart 2024<br />
 Gebruikte custom-tag: nog niet bepaald. Al het afval dat geraapt is op die ene dag, tellen we als LOD-data
-
