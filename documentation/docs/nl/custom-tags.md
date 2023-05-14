@@ -9,6 +9,6 @@ Een aantal gebruikers heeft op die manier al een paar tags bepaald en gebruikt d
 2. [Mooie omgevingen die verpest worden door afval voorzien van de custom-tag 'scenery'](https://openlittermap.com/tags?custom_tag=scenery&lat=52.523691686734814&lon=3.7633153006118922&zoom=7.95)
 3. [Bijzondere plekken waar mensen afval achtergelaten hebben en zo een soort afvalbak zijn begonnen, voorzien van custom-tag 'startedabin'](https://openlittermap.com/tags?custom_tag=startedabin&lat=52.44124321188227&lon=4.850690422052329&zoom=11.74)
 4. [Prullenbakken die na Oud-en-Nieuw opgeblazen waren met zwaar vuurwerk, voorzien van de custom-tag 'object:explodedbin'](https://openlittermap.com/tags?custom_tag=object%3Aexplodedbin&lat=52.474478891782894&lon=4.78624840058616&zoom=13.13)
-5. TODO: beforeandafter
-6. TODO: makeadifference
-7. TODO: showyourimpact
+5. [Groepjes van 2 foto's bjj elkaar, waarbij de een de 'vooraf-stand' weergeeft en de ander de 'achteraf-stand', waarbij alle foto's voorzien zijn van de custom-tags 'beforeandafter' en 'makeadifference' en waarbij de voor-foto voorzien is van 'before' en de na-foto van 'after'](https://openlittermap.com/tags?custom_tag=beforeandafter&lat=52.486772557443&lon=4.840628361353284&zoom=11.97)
+6. [Foto's waarbij niet elk item is vastgelegd, maar wel de volle vuilniszakken, voorzien van de custom-tag 'showyourimpact' en vaak ook voorzien van de naam van de opruimgroep](https://openlittermap.com/tags?custom_tag=showyourimpact&lat=52.286191749800075&lon=5.497223416966488&zoom=8.52)
+7. [Foto's van volle prullenbakken, vooral vastgelegd voor de actie Overload om aan te tonen dat verpakkingen verkeerd zijn ontworpen, voorzien van de custom-tag 'overload'](https://openlittermap.com/tags?custom_tag=overload&lat=52.339986489881674&lon=4.8365803096173074&zoom=10.54)
