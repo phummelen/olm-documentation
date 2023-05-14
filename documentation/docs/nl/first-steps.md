@@ -4,10 +4,11 @@ Het idee van OpenLitterMap (OLM) is simpel: neem een foto, geef wat kenmerken en
 Gebruikers die al wat langer bij OLM zitten, die doen dat inderdaad op die manier. Maar ben je wat nieuwer in OLM, dan kan het best wel wat overweldigend zijn. Wat moet je nu precies doen om dat afval inderdaad op die kaart te krijgen?<br />
 Daarom hebben we die stappen hieronder verder uitgewerkt, als je die volgt, zou jouw afval op de kaart moeten staan en kan je jouw impact zichtbaar gaan aken.<br />
 
+Tip: probeer onderstaande eerst met een paar foto's om zeker te weten dat alles werkt, ga daarna pas met grotere aantallen aan de slag.
+
 ## Account aanmaken
 Je hebt geen account nodig om van alles te kunnen zien op OLM. Echter, als je zelf data aan wilt maken, dan heb je een account nodig. Volg hiervoor de volgende stappen:
-1. Nog te vullen
-2. Tip: probeer onderstaande eerst met een paar foto's om zeker te weten dat alles werkt.
+1. TODO
 
 ## Instellingen correct zetten
 Om OLM zo optimaal mogelijk te laten werken, kan je de onderstaande stappen volgen<br />
