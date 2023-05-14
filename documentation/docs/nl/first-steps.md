@@ -53,6 +53,17 @@ Moet je het opruimen waarom wel/niet?
 Er vanuit gaande dat je een beginnende gebruiker bent, en je nu net je eerste foto(s) heb geupload, worden die ter controle aangeboden aan een groep van vrijwillige adminstrators die de foto's beoordelen. Hierbij wordt de foto getoond met de kenmerken die eraan zijn gegeven en moet de admin bepalen of dat correct is of niet. Als het correct is, dan worden die kenmerken ook op de kaart getoond en heb je je eerste punten verdiend. Is de foto niet correct, dan kan de admin hem afkeuren, of verbeteren. In dat geval worden geen punten gegeven.<br />
 Indien je een bepaald aantal punten behaald hebt, dan gaan we er vanuit dat je de werking van het uploaden en taggen goed genoeg begrijpt en controleren we niet meer al je foto's en ben je een zogenaamde 'verified user' geworden en heb je tevens je eerste Littercoin verdiend!
 
+
+## bekijk of download (je) data
+Gefeliciteerd, je hebt nu data gemaakt voor/in OLM en die kan je op allerlei manieren in OLM zelf bekijken<br />
+Dit geldt overigens ook voor data van anderen. Zo kan je:
+1. TODO
+2. TODO
+
+Maar je kan de data ook eventueel downloaden om via eigen te kiezen programma's meer det die data te doen. Zo kan je:
+1. TODO
+2. TODO
+
 ## deel je impact!
 Gefeliciteerd, jij hebt een verschil gemaakt! Daar mag je best trots op zijn, wij zijn dat in ieder geval ook!<br ?>
 Het delen van succes kan op meerdere manieren. TODO <br />
