@@ -6,16 +6,20 @@ Dit doen we dan met een speciale 'custom-tag' zodat die data ook op de website t
 In het verleden is OLM (in Nederland) gebruikt voor de volgende evenementen:
 1. Peukmeuk (2022)
 2. Knalplastic (2022)
-3. Pakzooi (2023)
+3. 
 
-Op dit moment is de 'Pakzooi'-actie nog gaande. Mocht je (via OLM) Dirk Groot en Merijn Tinga willen helpen in hun strijd tegen zwerfafval, en je ziet ergens een drankcarton liggen,<br />
-maak hier dan een foto van (en ruim hem liefst ook op) en upload hem in OLM.<br />
-Geef hierbij de normale tags die in OLM aanwezig zijn, maar geef daarbij ook de custom-tag 'pakzooi'. Geen hashtags, geen hoofdletters, gewoon pakzooi.<br />
-Dirk en Merijn zorgen dan voor de rest.<br />
-Deze actie loopt (voor zover nu bekend) tot (TODO)
+Op dit moment zijn de volgende evenementen actief waar je aan bij kun dragen:
+1. Pakzooi (2023)<br />
+Door/Voor: Dirk Groot & Merijn Tinga (The Plastic Avengers)<br />
+Doel: Alle drankkartons vastleggen<br />
+Datum: momenteel tm eind juni 2023<br />
+Gebruikte custom-tag in OLM: pakzooi<br />
+Huidige stand: [Alle tot nu toe geraapte pakzooi](https://openlittermap.com/tags?custom_tag=pakzooi&lat=52.316014974325796&lon=5.377373950852379&zoom=7.88)
 
-Binnenkort is het ook weer tijd voor de jaarlijkse 'PeukMeuk'. Ook wij doen hier weer aan mee.
-Mocht je op 1 juli een sigaret op straat zien liggen, en via OLM mee willen helpen om filters uit te bannen, maak hier dan een foto van (en ruim hem liefst ook op) en upload hem in OLM.<br />
-Geef hierbij de normale tags die in OLM aanwezig zijn, maar geef daarbij ook de custom-tag 'peukmeuk' en de custom-tag 'peukmeuk2023'. Geen hoofdletters!)<br />
-Andere vrijwilligers zorgen dan voor de rest.<br />
-Deze actie loopt op 1 dag: 1 juli 2023.
+Aankomende acties:
+1. PeukMeuk 2023<br />
+Door/Voor: Bernadette Hakken-Hermsen en collega's<br />
+Doel: Alle sigarettenpeukenop die ene dag vastleggen<br />
+Datum: 1 juli 2023<br />
+Gebruikte custom-tags in OLM: peukmeuk & peukmeuk2023<br />
+[Geraapte items in 2022:](https://openlittermap.com/tags?custom_tag=peukmeuk2022&lat=52.575629624264266&lon=5.384730584042043&zoom=9.63)
