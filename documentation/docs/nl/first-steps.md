@@ -65,9 +65,9 @@ Dit geldt overigens ook voor data van anderen. Zo kan je:
 5. TODO
 6. TODO
 
-Maar je kan de data ook eventueel downloaden om via eigen te kiezen programma's meer det die data te doen. Zo kan je:
-1. TODO
-2. TODO
+Op dit moment kan je al veel doen met de data in OLM, maar er zijn ook gebruikers die specifieke wensen hebben die niet binnen OLM zelf vervuld kunnen worden.
+Daarvoor bestaat de optie van het downloaden van de (meta)-data (alle kenmerken van de foto's, zonder de foto's zelf) zodat je met andere programma's die data verder kan verwerken.<br />
+Zie hiervoor het hoofdstuk 'Download'.
 
 ## deel je impact!
 Gefeliciteerd, jij hebt een verschil gemaakt! Daar mag je best trots op zijn, wij zijn dat in ieder geval ook!<br />
