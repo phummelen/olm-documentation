@@ -13,7 +13,7 @@ Not all updates are listed here, the important ones and almost important ones ..
 | 2.12.0 | Backend    | Yearly global clustering |
 | 2.11.0 | Mobile     | Fix HEIC images |
 | 2.10.0 | Web        | Global map improvements |
-         |            | (not sure if this counts as a major release but there are many smaller PRs) |
+|        |            | (not sure if this counts as a major release but there are many smaller PRs) |
 | 2.9.0  | Backend    | Refactor xp from SQL to Redis |
 | 2.8.0  | Backend    | Added testing |
 | 2.7.0  | Web        | View your own uploads on the Profile |
