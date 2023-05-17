@@ -1,7 +1,7 @@
 # Andere informatiebronnen
 
-OpenLitterMap (OLM) heeft een zeer actieve gebruikersgroep en deze gebruikers maken op hun beurt ook weer interessante informatiebronnen.<br />
-Hieronder zullen we er een aantal van noemen, en mocht je nog bronnen hebben/kennen maar die hier missen, laat gerust horen!
+OpenLitterMap heeft een zeer actieve gebruikersgroep en deze gebruikers maken op hun beurt ook weer interessante informatiebronnen.
+Hieronder een aantal. Mocht je nog bronnen hebben/kennen die hier missen, laat het gerust weten!
 
 1. YouTube-kanaal van onze Nederlandse gebruiker, Fred Steenbergen [Youtube channel](https://www.youtube.com/channel/UC4UYCvXwrgwMpcvrC4MoZ-w/videos)
 2. Engelstalige video over [The Global Map](https://www.youtube.com/watch?v=suC_iBXuHqA)
