@@ -49,14 +49,21 @@ plugins:
 nav:
 - Welkom: index.md
 - Van afval tot data, stap voor stap: first-steps.md
-- Voorbeelden van gevonden zwerfafval en hoe te taggen: tagging-examples.md
+- Hoe te taggen:
+  - Voorbeelden van gevonden zwerfafval en hoe te taggen: tagging-examples.md
+  - Custom Tags: custom-tags.md
 - Tips en sneltoetsen: tips.md
-- Evenementen waar je bij kunt helpen: events.md
-- Interessante custom-tags: customtags.md
+- Data:
+  - Invoeren: first-steps.md
+  - Downloaden: download.md
+- Evenementen:
+  - waar je bij kunt helpen: events.md
+  - die je kunt aanmaken: cleanups.md
 - Littercoin: littercoin.md
-- Wekelijkse meetup en notulen: meetup.md
+- De community:
+  - Wekelijkse meetup en notulen: meetup.md
+  - Melden van mogelijke fouten: issues.md
 - Succesverhalen: success-stories.md
-- Melden van mogelijke fouten: issues.md
 - Veel gestelde vragen: faq.md
 - Andere informatiebronnen: other-sources.md
 - Contact: contact.md

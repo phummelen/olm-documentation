@@ -1,16 +1,16 @@
 # Frequently Asked Questions
 
 ## How can I download the images?
-This feature is not working properly yet as openlittermap is still in development.<br />
-Do you think the development of this technology is important? https://gofundme.com/openlittermap 
+This feature is not working properly yet as openlittermap is still in development.<br>
+Do you think the development of this technology is important? Donation is possible [here](https://gofundme.com/openlittermap).
 
 ## What is OpenLitterMap?
 OpenLitterMap is an open source, interactive, and accessible databsase of the world's litter & plastic pollution. We are turning cleaning the planet into a game, to make it fun and easy to collect data. This data is important to give visibility to litter, and help find solutions like where to put bins, ashtrays & more.
 
 ## Why is it called OpenLitterMap?
-"Open" - because all of our code & data is open source. This means that anyone can access the code, learn from it, improvee it, or use it in another project! You don't have to be a developer to appreciate how powerful this is. Open source code can be passed on from generation to generation, who can build on it, learn from it and use it to continue to help improve society for the betterment of humanity.<br />
-<br />
-Not only is all of our code open source, which you can find at https://github.com/openlittermap but all of our data is also openly available for anyone to download and start using. This is in contrast to many other apps, who do not open up access to their code and data as they are trying to keep it for themselves (booo!!!)<br />
+"Open" - because all of our code & data is open source. This means that anyone can access the code, learn from it, improvee it, or use it in another project! You don't have to be a developer to appreciate how powerful this is. Open source code can be passed on from generation to generation, who can build on it, learn from it and use it to continue to help improve society for the betterment of humanity.<br>
+<br>
+Not only is all of our code open source, which you can find at https://github.com/openlittermap but all of our data is also openly available for anyone to download and start using. This is in contrast to many other apps, who do not open up access to their code and data as they are trying to keep it for themselves (booo!!!)<br>
 "LitterMap" - because we visualise our entire global repository on the global map, which loads all data in 30kb and 33ms (August 2022).
 The OpenLitterMap name was inspired by OpenStreetMap which is the most detailed & comprehensive map of the world ever created by over 2-million volunteers that contiunes to be updated constantly. Unlike other services like Google Maps, which is not open and owned by Google, OpenStreetMap code and data is open to everyone, allowing anyone to be a part of adding, editing or using the code and/or data. Inspired by the open source values of OpenStreetMap, we decided to apply the same open values to litter and plastic pollution. 
 
@@ -20,20 +20,20 @@ Firstly, make sure that your phone has the right settings:
  - iPhone. Open Settings -> Privacy -> Location. Turn "Camera On While Using".
  -  Android. Open the Camera.
 
-Go to camera settings => Activate Geotagging.<br />
-Pull down top-menu and Activate GPS<br />
-<br />
+Go to camera settings => Activate Geotagging.<br>
+Pull down top-menu and Activate GPS<br>
+<br>
 There are different ways to take pictures:
 
  - Open your normal camera and use that to take the photos (our preferred way)
  - Open the app and take pictures from within the app (This is currently disabled.)
 
-There are 2 ways to upload and tag your data. You can use the mobile app, or you can use openlittermap.com and log in there. If you visit the website, you have to upload your images first, then tag them. Some people prefer this way, as you get a full screen, a keyboard, and you can tag many items at once. Other people prefer using the mobile app, where you have to select your images first, tag them, and upload the tagged ones.<br />
-Check your setting: do you normally pick up the litter or not?<br />
+There are 2 ways to upload and tag your data. You can use the mobile app, or you can use openlittermap.com and log in there. If you visit the website, you have to upload your images first, then tag them. Some people prefer this way, as you get a full screen, a keyboard, and you can tag many items at once. Other people prefer using the mobile app, where you have to select your images first, tag them, and upload the tagged ones.<br>
+Check your setting: do you normally pick up the litter or not?<br>
 If you want to take pictures without draining your battery, it is okay to put it in flight-mode! To determine your location, you need the GPS sensor in your device to connect to a location-tracking satellite, not your cellular or wifi network. You can collect geospatial data anywhere, without needing a connection to anything else. This means that it works in the most remote parts of the world, but you need to connect to the internet if you want to upload your data.
 
 ## What's the use of having an option 'I did not pick it up'?
-Isn’t it all about cleaning the earth and picking litter? Good question! Yes, the idea is to make the world a better place, and there are many ways to do that. Most of us pick litter, so right at that moment, a difference is being made, the world is a bit cleaner than before. And we don’t just pick the litter, but we also take a picture to create data about that litter that can be used long after the litter is gone.<br />
+Isn’t it all about cleaning the earth and picking litter? Good question! Yes, the idea is to make the world a better place, and there are many ways to do that. Most of us pick litter, so right at that moment, a difference is being made, the world is a bit cleaner than before. And we don’t just pick the litter, but we also take a picture to create data about that litter that can be used long after the litter is gone.<br>
 However, there are situatuibs when someone would take a picture without picking the litter:
 
  - The litter is too big. You are walking with your dog and picking some litter while doing so, but suddenly you see something that shouldn’t be there but it is too big. (a car-wheel, a broken toilet, etc.).
@@ -53,7 +53,7 @@ However, there are situatuibs when someone would take a picture without picking 
  - If its not possible to count the litter, you can use the Dumping category (small, medium, large) and pick a number between 0-100 depending on how bad you think the problem is.
  - When possible, hold your camera as close to the item as possible.
  - If there is a brand on the item, make sure that is also visible in the picture.
- -  Don't include people, faces, shadows, feet, or clothes. Please take photos of litter ONLY. With these guidelines, you can help us create an excellent quality datasetset and you will make life easier for those who need to help verify the data. However, there are situations where this is not possible. For instance, you see something floating in the water and are not able to pick it, or turn it to see if there is a brand on it, or to zoom in. That’s okay, it is still valuable data and we welcome your contribution.<br />
+ -  Don't include people, faces, shadows, feet, or clothes. Please take photos of litter ONLY. With these guidelines, you can help us create an excellent quality datasetset and you will make life easier for those who need to help verify the data. However, there are situations where this is not possible. For instance, you see something floating in the water and are not able to pick it, or turn it to see if there is a brand on it, or to zoom in. That’s okay, it is still valuable data and we welcome your contribution.<br>
 Do I have to take 1 photo per item?
  -  No, you don’t. You can take 1 photo, apply a tag of cigarette butts tag with a quantity of 50.
 And if I find different objects close together, do i have to sort those first?
@@ -62,11 +62,11 @@ So do whatever you prefer, but do try and help us build a high quality database!
 
  ## How to tag correctly?
 There is no single method to tag pictures, all data is valuable. It is also 'your story' to tell. However, you should try to tell what kind of item it is (it should be available under some category, and only if it is not, use 'other') and if possible add the brand as well (if the brand is not available yet, you could use the custom tags input). But try to use the pre-defined tags as much as possible.
-If possible, tag the ‘worst’ material. So an item with both plastic and paper, tag as plastic.<br />
-<br />
-Some examples:<br />
-red bull can → 2 tags: ‘the object’ (look for the best ‘can’ that you can find) + brand<br />
-Soda can with a brand that we don’t have yet → 1 predefined tag (can) + 1 customtag:somebrandname<br />
-If you have found an energy-can, only give 1 tag for the item: so don’t tag it as ‘can’ and ‘energycan’, but just as an energycan<br />
-<br />
-Multiple litter items in a photo can be tagged with appropriate counts applied. A photo can contain a mixture of beer bottles, beer cans, plastic cups, or any number of recognized category items. Multiple recognized brands and their counts can also be applied. <br />
+If possible, tag the ‘worst’ material. So an item with both plastic and paper, tag as plastic.<br>
+<br>
+Some examples:<br>
+red bull can → 2 tags: ‘the object’ (look for the best ‘can’ that you can find) + brand<br>
+Soda can with a brand that we don’t have yet → 1 predefined tag (can) + 1 customtag:somebrandname<br>
+If you have found an energy-can, only give 1 tag for the item: so don’t tag it as ‘can’ and ‘energycan’, but just as an energycan<br>
+<br>
+Multiple litter items in a photo can be tagged with appropriate counts applied. A photo can contain a mixture of beer bottles, beer cans, plastic cups, or any number of recognized category items. Multiple recognized brands and their counts can also be applied. <br>
