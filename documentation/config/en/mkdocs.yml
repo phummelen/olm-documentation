@@ -45,7 +45,12 @@ nav:
    - The basics: tagging-how-to.md
    - Via web: tagging-via-web.md
    - Via mobile: tagging-via-mobile.md
+- Team:
+  - litterpickers: litterpickers.md
+  - support team: finance-devops.md
+  - patrons: finance-patrons.md
 - FAQ: faq.md
+- Finance: finance.md
 - Contact us: contact.md
 - On Youtube: youtube.md
 - Littercoin: littercoin.md
