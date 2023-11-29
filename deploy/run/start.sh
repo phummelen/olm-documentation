@@ -10,7 +10,7 @@ fi
 . ${SETENV_FILE}
 . ./defaults.sh
 
-if [ "$(docker network ls | grep " ${ENVIRONMENT} " | wc -l)" -eq "0" ]
+if [ "$(docker network ls | grep c " ${ENVIRONMENT} ")" -eq "0" ]
 then
     docker network create -d bridge ${ENVIRONMENT}
 fi

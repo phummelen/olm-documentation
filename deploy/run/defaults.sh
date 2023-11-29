@@ -1,3 +1,5 @@
+#!/bin/bash
+
 export ENVIRONMENT=${ENVIRONMENT:-'test'}
 export WEB_PORT=${WEB_PORT:-80}
 export EXTERNAL_PORTS=${EXTERNAL_PORTS:-n}
@@ -20,5 +22,5 @@ then
     export TIMEZONE=$(cat /etc/timezone)
 else
     # for RHEL based systems (like Suse)
-    export TIMEZONE=$(egrep '^TIMEZONE=' /etc/sysconfig/clock | sed 's/TIMEZONE="//' | sed 's/"//')
+    export TIMEZONE=$(grep -E '^TIMEZONE=' /etc/sysconfig/clock | sed 's/TIMEZONE="//' | sed 's/"//')
 fi
