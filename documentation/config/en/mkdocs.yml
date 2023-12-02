@@ -54,4 +54,9 @@ nav:
   - Categories: tags-categories.md
   - Tags: tags-tags.md
   - Verification Process: verification-process.md
+- Development Use:
+  - Common Info: dev/introduction.md
+  - Version Control: dev/github.md
+  - Container Management: dev/docker.md
+  - Running Locally: dev/running-locally.md
 - Releases: releases.md
